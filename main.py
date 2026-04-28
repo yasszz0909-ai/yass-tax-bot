@@ -68,4 +68,4 @@ if __name__ == "__main__":
     keep_alive() # Menjalankan server Flask di background
     # Gunakan os.getenv agar lebih aman di Render
     # Masukkan token baru hasil reset kamu di sini sementara
-    bot.run('MTQ5ODUyMTkwNjc3MTM5ODgyNw.Gv5xjt.zFqZIacEcYNmPoe3kzrSJTJx8zx8Vg5jCimmfg')
+    bot.run('DISCORD_TOKEN')
